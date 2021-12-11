@@ -20,4 +20,3 @@
 
 <img src="assets/img/img1.png" />
 <img src="assets/img/img2.png" />
-<img src="assets/img/img3.png" />
