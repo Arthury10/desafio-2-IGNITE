@@ -12,11 +12,11 @@
 
 ## Como funciona:
 
-### - O usuário pode sewlecionar a categoria
+### - O usuário pode selecionar a categoria de acordo com o que deseja ver
 
-### Para utilizar terá que baixar as dependências do projeto:
+## Para utilizar terá que baixar as dependências do projeto:
 
-## - npm install ou yarn install
+### - npm install ou yarn install
 
 <img src="assets/img/img1.png" />
 <img src="assets/img/img2.png" />
